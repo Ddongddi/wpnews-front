@@ -1,0 +1,15 @@
+body {
+  font-family: 'NanumGothic' !important;
+  /* overflow-x: hidden; */
+}
+
+.fw-bold {
+  font-family: 'NanumGothicBold' !important;
+}
+
+.setbox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
